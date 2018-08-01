@@ -4,7 +4,7 @@
 
     //% color=50 weight=19
     //% icon="\uf1eb"
-declare namespace Hua_Mbit_IR {
+declare namespace Hua_M1_IR {
 
     /**
      * button pushed.
