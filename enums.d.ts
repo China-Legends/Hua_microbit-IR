@@ -47,7 +47,7 @@
 	  NUM8 = 0x19,
 	  NUM9 = 0x1A,
     }
-declare namespace Hua_Mbit_IR {
+declare namespace HuaRobot_M1_IR {
 }
 
 // Auto-generated. Do not edit. Really.
