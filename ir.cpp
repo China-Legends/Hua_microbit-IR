@@ -39,8 +39,8 @@ enum class RemoteButton {
 	  Minus = 0xe,
 	  TLeft = 0x8,
 	  TRight = 0xA,
-	  NUM0 = 0xFF0DF2,//0xD,
-	  NUM1 = 0xB0,//0x10,
+	  NUM0 = 0xD,
+	  NUM1 = 0x10,
 	  NUM2 = 0x11,
 	  NUM3 = 0x12,
 	  NUM4 = 0x14,
@@ -53,7 +53,7 @@ enum class RemoteButton {
 
 //% color=50 weight=19
 //% icon="\uf1eb"
-namespace HuaRobot_M1_IR { 
+namespace Mbit_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 

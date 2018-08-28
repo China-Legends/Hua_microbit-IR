@@ -1,8 +1,8 @@
  # mbit_IR for micro-bit
 
-Extension for Hua_microbit mbit_IR
+Extension for Yahboom mbit_IR
 
-Note: IR receiver for Hua_microbit receiver
+Note: IR receiver for Yahboom receiver
 
 ## License
 
